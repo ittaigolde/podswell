@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## free analytics for your podcast
 
-You can use the [editor on GitHub](https://github.com/ittaigolde/podswell/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+podswell is the analytics server powering [s-emek](http://s-emek.com), [Two Nice Jewish Boys](http://2njb.com), [Added Value](http://added-value.co), [Potluck Podcast](http://potluckpotcast.com) and more.
+it provides you, dear podcaster, with:
+1. daily statistics - what episodes were downloaded today? three weeks ago?
+2. overall statistics - what is my best episode?
+3. statistics at a glance - how did that episode i recorded on onion soup do compared to that episode on shoes?
+4. churn map for episodes - do people listen to my episode, or do they stop listening after five minutes? (experimental)
+5. embeddable player for you sites
+6. share knowledge with other podcasters - you can see how many of listeners you share with other podcasts. this lets you do all kinds of cross promotions 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## how do i start?
 
-### Markdown
+three easy steps
+1. create a subdomain like http://feed.youdomainhere.whatever that points to 104.131.139.38
+2. talk to us
+3. when we're done setting everything up, change your itunes link to http://feed.youdomainhere.whatever/rss 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## that sounds fishy
 
-```markdown
-Syntax highlighted code block
+yes, but think about this
+1. this is free, as in - you don't pay anything.
+2. you control everything - you own the domain, the itunes link, the existing hosting. if we go away, you still control your podcast
+3. this is not self service, yet - we vet and configure the server for every new podcast.
+4. you can join our users' group [here](https://www.facebook.com/groups/231006223976425/) and request features. we try to accomodate anything sensible
 
-# Header 1
-## Header 2
-### Header 3
+## ok, so what do i do?
 
-- Bulleted
-- List
+if you got here, you probably talked to us before. just get the subdomain done, and let us know what it your rss link. we'll take it from there
 
-1. Numbered
-2. List
+## why do you do that?
 
-**Bold** and _Italic_ and `Code` text
+we like podcasts. we're intrigued by the technology. we like analytics. we did it for ourselves, but really there is very little additional cost in helping other podcasts. we also don't think there's real money to be made here from this service, so we offer it for free - it's our hobby.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ittaigolde/podswell/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

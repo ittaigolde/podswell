@@ -13,7 +13,7 @@ it provides you, dear podcaster, with:
 
 three easy steps
 1. create a subdomain like http://feed.youdomainhere.whatever that points to 104.131.139.38
-2. talk to us
+2. talk to us (send an email to [xxx@podswell.com](mailto:xxx@podswell.com?subject=Please+Add+My+Podcast)
 3. when we're done setting everything up, change your itunes link to http://feed.youdomainhere.whatever/rss 
 
 ## that sounds fishy

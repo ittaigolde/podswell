@@ -11,13 +11,7 @@ it provides you, dear podcaster, with:
 
 ## how do i start?
 
-three easy steps
-1. create a subdomain like http://feed.youdomainhere.whatever that points to 104.131.139.38
-2. talk to us on facebook. Look up ittai golde or eric nakagawa
-3. when we're done setting everything up, change your itunes link to http://feed.youdomainhere.whatever/rss 
-
-
-or you can [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSeX-_iSUB5XGaOMiavTKn6M5VjYKPC21MaE4il6G1eawTZDqQ/viewform?entry.71613343&entry.491095781&entry.1470118988) - but really, talking to us might be faster
+very easy:  [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSeX-_iSUB5XGaOMiavTKn6M5VjYKPC21MaE4il6G1eawTZDqQ/viewform?entry.71613343&entry.491095781&entry.1470118988) - and then talk to us.
 
 ## that sounds fishy
 

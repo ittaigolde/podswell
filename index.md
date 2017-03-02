@@ -1,7 +1,7 @@
 ## free analytics for your podcast
 
 Used by:
-<iframe width="300" src="https://podswell.com/customers" frameborder="0" ></iframe>
+<iframe width="300" height="800" src="https://podswell.com/customers" frameborder="0" ></iframe>
 
 podswell provides you, dear podcaster, with:
 1. daily statistics - what episodes were downloaded today? three weeks ago?

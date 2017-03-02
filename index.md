@@ -25,9 +25,9 @@ yes, but think about this
 
 ## ok, so what do i do?
 
-if you got here, you probably talked to us before. just get the subdomain done, and let us know what it your rss link. we'll take it from there
+if you got here, you either talked to us before and just continue talking to us. or get in touch with us on facebook.
 
 ## why do you do that?
 
-we like podcasts. we're intrigued by the technology. we like analytics. we did it for ourselves, but really there is very little additional cost in helping other podcasts. we also don't think there's real money to be made here from this service, so we offer it for free - it's our hobby.
+we like podcasts. we're intrigued by the technology. we like analytics. we did it for ourselves, but really there is very little additional cost in helping other podcasts. it's also our hobby. some people run marathons. we do podcasts.
 

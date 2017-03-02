@@ -1,4 +1,4 @@
-(already use podswell? [login here](https://podswell.com/login)
+already use podswell? [login here](https://podswell.com/login)
 
 ## free analytics for your podcast
 

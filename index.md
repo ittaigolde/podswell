@@ -1,7 +1,9 @@
 ## free analytics for your podcast
 
-podswell is the analytics server powering [s-emek](http://s-emek.com), [Two Nice Jewish Boys](http://2njb.com), [Added Value](http://added-value.co), [Potluck Podcast](http://potluckpotcast.com) and more.
-it provides you, dear podcaster, with:
+Used by:
+<iframe width="300" src="https://podswell.com/customers" frameborder="0" ></iframe>
+
+podswell provides you, dear podcaster, with:
 1. daily statistics - what episodes were downloaded today? three weeks ago?
 2. overall statistics - what is my best episode?
 3. statistics at a glance - how did that episode i recorded on onion soup do compared to that episode on shoes?
